@@ -1,2 +1,28 @@
+git 
+
+
 Prettier Javascript = para formatear el codigo
 Live Server = Pagina en tiempo real en modificiaciones 
+
+Seodocorreo de Git 
+
+git init 
+git add .
+git commit
+git remote add origin https://github.com/backup-jr/REPOSITORIOS.git
+
+credenciales de git
+git config --global user.email rojas.jeffer@gmail.com"
+  git config --global user.name "backup-jr"
+
+https://gitmoji.dev/
+
+doc
+feat
+fix
+
+push subir info de github
+pull bajar info de github
+. puntosontenido para abrir un visual studio code
+
+
