@@ -1,0 +1,2 @@
+Prettier Javascript = para formatear el codigo
+Live Server = Pagina en tiempo real en modificiaciones 
