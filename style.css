@@ -1,0 +1,15 @@
+.section {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.raton1{
+    background-color: white;
+    ;
+}
+.raton2{
+    background-color: white;
+    gap: 40px;
+}
